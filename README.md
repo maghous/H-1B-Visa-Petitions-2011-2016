@@ -62,7 +62,7 @@ h1b-analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/h1b-analysis.git
+   git clone https://github.com/maghous//H-1B-Visa-Petitions-2011-2016.git
    cd h1b-analysis
    ```
 
