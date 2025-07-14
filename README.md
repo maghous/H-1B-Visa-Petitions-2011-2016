@@ -104,18 +104,4 @@ The notebook includes comprehensive analysis covering:
 - **Risk Assessment**: Employer success probability
 - **Market Research**: Tech industry labor patterns
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue or contact [your-email@example.com].
-
----
-
-**Note**: This analysis is for educational and research purposes. Dataset not included due to size - please obtain from official sources.
